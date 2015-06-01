@@ -1,0 +1,5 @@
+[package]
+
+name = "linkedlist"
+version = "0.0.1"
+authors = [ "Derek Williams <derek@nebvin.ca>" ]
